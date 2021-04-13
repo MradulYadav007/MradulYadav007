@@ -1,6 +1,12 @@
 <h1 align="center"># Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Hi! This is Mradul Yadav</h1>
+<a href="https://discord.gg/eP5V8gDy">
+  <img align="left" alt="Mradul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://open.spotify.com/user/uqdz8ahn55s91hryypx97tz8d?si=45b55fe4ea3d418c">
+  <img align="left" alt="Mradul's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MradulYadav007&label=Profile%20views&color=0e75b6&style=flat" alt="MradulYadav007" /> </p>
-
+<h2><a href="https://drive.google.com/file/d/1tUVcjOmDQFM5x_cl8s12ehFL0Q-_cSA4/view?usp=sharing">My Resume</a></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MradulY44850231?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MradulYadav007" height="30" width="40" /></a>
