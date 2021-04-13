@@ -4,11 +4,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MradulY44850231?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MradulYadav007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/darpan1107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MradulYadav007" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mradul-yadav-481b0219b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="MradulYadav007" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mradul-yadav-481b0219b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MradulYadav007" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imradul.yadav/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="MradulYadav007" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/maddy0007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="MradulYadav007" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mradul.mr20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="MradulYadav007" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mradulmr20/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="MradulYadav007" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@mradul.mr20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" alt="MradulYadav007" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/mradul20/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" alt="MradulYadav007" height="30" width="40" /></a>
 </p>
 
 - 🔭 I’m currently working on Interview Blogging web site.
