@@ -4,7 +4,6 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MradulYadav007&label=Profile%20views&color=0e75b6&style=flat" alt="MradulYadav007" /> </p>
 <h2><a href="https://drive.google.com/drive/folders/143h7hw7kMGpT0vwJ-DQIVEAuO6f_HL3Z">My Resume</a></h2>
-<h2><a href="https://mradulyadav.co">My Portfolio Website</a></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MradulY44850231?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MradulYadav007" height="30" width="40" /></a>
