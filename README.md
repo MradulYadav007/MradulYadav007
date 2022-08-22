@@ -2,11 +2,8 @@
 <a href="https://discord.gg/eP5V8gDy">
   <img align="left" alt="Mradul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://open.spotify.com/user/uqdz8ahn55s91hryypx97tz8d?si=45b55fe4ea3d418c">
-  <img align="left" alt="Mradul's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MradulYadav007&label=Profile%20views&color=0e75b6&style=flat" alt="MradulYadav007" /> </p>
-<h2><a href="https://drive.google.com/file/d/1tUVcjOmDQFM5x_cl8s12ehFL0Q-_cSA4/view?usp=sharing">My Resume</a></h2>
+<h2><a href="https://drive.google.com/drive/folders/143h7hw7kMGpT0vwJ-DQIVEAuO6f_HL3Z">My Resume</a></h2>
 <h2><a href="https://mradulyadav.co">My Portfolio Website</a></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
